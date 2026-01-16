@@ -89,5 +89,13 @@ docker-compose up --build
 
 ---
 
+## 📄 License  
+
+This project is licensed under the **MIT License**.  
+
+📧 **Contact:** [LinkedIn](https://www.linkedin.com/in/malinidevi-s-/)  
+
+---
+
 **🔒 Secure File Sharing – Because Security Matters!** 🚀
 
